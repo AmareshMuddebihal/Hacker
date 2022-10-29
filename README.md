@@ -23,7 +23,7 @@ Usage of **HACKER** for attacking targets without prior mutual consent is illega
 * ` apt upgrade -y `
 * ` pkg install git `
 * ` git clone https://github.com/rixon-cochi/Hacker.git`
-* ` bash install.sh ( automatically tool run ) `
+* ` bash install.sh `( automatically tool run )
 * ` bash hacker.sh `
 
 ## HACKER TOOL INTERFACE
